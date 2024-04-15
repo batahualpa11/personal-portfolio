@@ -1,2 +1,3 @@
 # personal-portfolio
  
+This is where all my components will be held...
