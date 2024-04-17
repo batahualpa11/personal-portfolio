@@ -405,5 +405,17 @@ content: "Web Developer";
     box-shadow: 0 0 5px var(--main-color);
     transition: 0.4s ease;
 }
-
-
+.project-card:hover {
+    box-shadow: 0 0 25px var(--main-color),
+                0 0 50px var(--main-color);
+    transform: scale(1.02);
+}
+.project-card img {
+    max-width: 18vw;
+}
+.project-card h3 {
+    font-size: 3rem;
+}
+.project-card p {
+    font-size: 1.6rem;
+}
