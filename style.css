@@ -90,7 +90,7 @@ span {
     color: var(--main-color);
 }
 .logo {
-    color: var(--main-color);
+    color: var(--text-color);
 }
 .home-content h3 {
     margin-bottom: 2rem;
