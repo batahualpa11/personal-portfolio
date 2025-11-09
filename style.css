@@ -207,23 +207,23 @@ span {
 @keyframes words {
     0%,
     20% {
-        content: "Frontend Designer";
+        content: "Machine Learning Engineer";
     }
     21%,
     40% {
-        content: "Web Designer";
+        content: "Software Engineer";
     }
     41%,
     60% {
-        content: "UI / UX Designer";
+        content: "AI Implementation Engineer";
     }
     61%,
     80% {
-        content: "Web Developer";
+        content: "Movie Enthusiast";
     }
     81%,
     100% {
-        content: "Software Tester";
+        content: "Dexter Fanatic";
     }
 }
 @keyframes typing {
