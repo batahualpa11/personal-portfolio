@@ -207,7 +207,7 @@ span {
 @keyframes words {
     0%,
     20% {
-        content: "Machine Learning Engineer";
+        content: "ML Engineer";
     }
     21%,
     40% {
@@ -215,7 +215,7 @@ span {
     }
     41%,
     60% {
-        content: "AI Implementation Engineer";
+        content: "Data Engineer";
     }
     61%,
     80% {
